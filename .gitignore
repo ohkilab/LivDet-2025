@@ -3,3 +3,5 @@ runs/
 data/
 dataset_FVC2000_DB4_B/
 *.pth
+NIST300/
+__pycache__/
